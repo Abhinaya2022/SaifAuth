@@ -18,7 +18,7 @@ namespace HospitalApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index1()
         {
             return View();
         }
